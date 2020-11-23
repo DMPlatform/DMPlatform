@@ -6,6 +6,12 @@
 
 如您使用腾讯优量汇API，需获取memberid和secret参数
 
+请注意：Cruis API将在2021年2月28日下线，请在此之前联系优量汇对接人申请开通优量汇Reporting API，完成Cruis API功能和服务的迁移及替换
+
+## 快手联盟
+
+请向快手联盟对接人申请开通快手Reporting API权限、获取Access Key和Security Key参数
+
 ## 百青藤
 
 请向百青藤对接人申请开通Baidu MSSP API权限、获取Access Key参数
@@ -81,6 +87,10 @@
 登陆账号后，在“Operate”-“Ads Data Export”-“API Access”-“Monetization Stats APl Access”中即可找到API Key
 
 ![image.png](https://i.loli.net/2020/11/08/ThVf41MD3OZ6njC.png)
+
+## Sigmob
+
+请向Sigmob对接人申请开通Sigmob Reporting API权限、获取Public Key和Secure Key参数
 
 ## Mintegral
 
