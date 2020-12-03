@@ -4,7 +4,7 @@
 
 如您使用腾讯广告联盟Cruis API，需获取member_id、agid、appid和appkey参数
 
-如您使用腾讯优量汇API，需获取memberid和secret参数
+如您使用腾讯优量汇API，需获取账户id和密钥secret参数
 
 请注意：Cruis API将在2021年2月28日下线，请在此之前联系优量汇对接人申请开通优量汇Reporting API，完成Cruis API功能和服务的迁移及替换
 
