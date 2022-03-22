@@ -99,3 +99,10 @@
 登陆账号后，在“账户管理”-“接口工具”-“统计接口”中即可找到 Skey和Secret
 
 ![image.png](https://i.loli.net/2020/11/08/fyKB4Zu3i7ajQHm.png)
+
+
+## 自定义ADN
+
+通过通过自定义ADN接入的广告网络，需填写广告网络ID，广告网络ID可在GroMore后台-“广告网络” 模块获取
+<img width="1185" alt="53df7104a4c0608e54ec6c5ff8d2eaec" src="https://user-images.githubusercontent.com/101794868/159447942-cae77462-d784-4e54-98f0-a2878e2eedfe.png">
+
