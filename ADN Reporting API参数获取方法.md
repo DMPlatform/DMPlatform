@@ -1,3 +1,5 @@
+本篇将介绍不同ADN Reporting API参数获取方法，包括优量汇、快手联盟、百青藤、admob、unity、sigmob、mintegral和自定义adn。
+
 ## 优量汇
 
 请向优量汇对接人申请开通Cruis API或优量汇API权限
