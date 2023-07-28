@@ -7,8 +7,10 @@
 如您使用腾讯广告联盟Cruis API，需获取member_id、agid、appid和appkey参数
 
 如您使用腾讯优量汇API，需获取账户id和密钥secret参数
+<img width="1207" alt="image" src="https://github.com/DMPlatform/DMPlatform/assets/101794868/01e3366d-1fb1-4b9d-a637-1736d331edde">
 
-请注意：Cruis API将在2021年2月28日下线，请在此之前联系优量汇对接人申请开通优量汇Reporting API，完成Cruis API功能和服务的迁移及替换
+
+请注意：Cruis API已于2021年2月28日下线
 
 ## 快手联盟
 
