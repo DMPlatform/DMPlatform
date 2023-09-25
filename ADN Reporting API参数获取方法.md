@@ -1,10 +1,10 @@
 本篇将介绍不同ADN Reporting API参数获取方法，包括优量汇、快手联盟、百青藤、admob、unity、sigmob、mintegral和自定义adn。
 
 ## 优量汇
+
 1、权限：添加前请确保您的账号已拥有「优量汇API」权限
 
 2、必填参数：
-![image](https://github.com/DMPlatform/DMPlatform/assets/26924924/33220836-6ff7-4501-b055-4d4a2aa4f7a0)
 - 账号名称：用于区分您在该广告网络下的不同账号，平台不做正确性校验
 - 报表API权限：打开后，GroMore可拉取API数据，建议打开
 - 账户id：对应“ID”，可在优量汇后台获取
