@@ -75,7 +75,6 @@
 1、权限：添加前请确保您的账号已拥有「Unity API」权限
 
 2、必填参数： 
-![image](https://github.com/DMPlatform/DMPlatform/assets/26924924/9482f349-dcdf-4fc3-85f2-a6b571f13fce)
 - 账号名称：用于区分您在该广告网络下的不同账号，平台不做正确性校验
 - 报表API权限：打开后，GroMore可拉取API数据，建议打开
 - Api Key：对应“Monetization Stats APl Access”的值，可在「Ads Data Export-API Access」获取
