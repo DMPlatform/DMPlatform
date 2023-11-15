@@ -32,6 +32,21 @@
 - Access Key：可在百青藤后台「账号管理-API管理」获取
 - 私钥：与“公钥”一同生成
 ![image](https://github.com/DMPlatform/DMPlatform/assets/26924924/2f271fe7-1a78-4631-9652-d67b19bf5f33)
+根据百度提供的文档，可生成DSA的公私钥对:
+```
+ ① 生成随机参数
+ openssl dsaparam -out dsaparam.pem 1024
+ ② 生成 DSA 私钥 privkey.pem
+ openssl gendsa -out privkey.pem dsaparam.pem
+ ③ 生成公钥 pubkey.pem
+ openssl dsa -in privkey.pem -pubout -out pubkey.pem
+```
+注意：新版本的openssl在这里默认生成的公私钥格式为PKCS#8，但是mix平台只支持PKCS#1格式。所以需要将生成的私钥从PKCS#8格式转换成PKCS#1。
+
+```openssl dsa -in privkey.pem -out privkey.pem```
+
+如何识别是PKCS#8还是PKCS#1？
+如果以BEGIN DSA PRIVATE KEY开头则表明是PKCS#1格式，而不带DSA算法类型的BEGIN PRIVATE KEY的开头则是PKCS#8。
 - 广告网络ID：如为自定义ADN接入，需填写
 
   
