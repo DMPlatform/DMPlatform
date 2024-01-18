@@ -105,8 +105,11 @@
 - 报表API权限：打开后，GroMore可拉取API数据，建议打开
 - Public Key：可在sigmob后台「账户管理」获取
 - Secret Key：可在sigmob后台「账户管理」获取
-- 账户ID：对应“开发者ID”，可在sigmob后台「账户管理」获取
-  ![image](https://github.com/DMPlatform/DMPlatform/assets/26924924/a05f60f1-e923-4b51-aeee-c4a840660ff9)
+<img width="585" src="https://github.com/DMPlatform/DMPlatform/assets/101794868/46e45d8c-0a89-4df2-bd66-47a69dbe1de1">
+
+- 用户名：可在「账户管理」获取
+<img width="385" src="https://github.com/DMPlatform/DMPlatform/assets/101794868/b2be195c-4712-4240-9a60-da34635be8e7">
+
 - 广告网络ID：如为自定义ADN接入，需填写
   
 ## Mintegral
